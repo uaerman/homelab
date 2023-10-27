@@ -54,5 +54,5 @@ I'm new to home labs, where I'm constantly striving to enhance my skills and kno
 #### [Homepage](https://gethomepage.dev/latest/)
 
 ### Planing for hardware
-- Replacing the ISP router with a new one, probably PfSense. (My current ISP allow to replacement of the router.)
-- NAS Server (Plamning 2x4TB RAID 1)
+- Replacing the ISP router with a new one, probably PfSense. (My current ISP allows to replacement of the router.)
+- NAS Server (Planning 2x4TB 2.5' SSD RAID 1)
