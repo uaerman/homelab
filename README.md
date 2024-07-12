@@ -16,11 +16,13 @@ I'm new to home labs, where I'm constantly striving to enhance my skills and kno
 - 512GB M2 SSD, 1TB M2 SSD, 1TB 2.5' HDD
 
 #### Network
-- Gigabit ISP Router (For now)
+- TP-Link Archer AX53
+- 1GBps Upload/Download
+- ~~Gigabit ISP Router (For now)~~
 
 ### OS
 - Ubuntu Server 22.04.3 LTS (Raspberry Pi & VMs on Personal Computer)
-- Windows 11 22H2 (Personal Computer)
+- Windows 11 23teH2 (Personal Computer)
 
 ### Containerization & Virtualization
 - VMWare Workstation Pro 17
@@ -54,7 +56,6 @@ I'm new to home labs, where I'm constantly striving to enhance my skills and kno
 
 ### Documents & Bookmarks
 - [LinkAce](https://www.linkace.org/) Self-Hosted bookmark archive
-- ~~[Paperless-ngx](https://docs.paperless-ngx.com/) Document manager~~ REMOVED
 - [BookStack](https://www.bookstackapp.com/) Document Manager ?
 
 #### Other
@@ -68,5 +69,4 @@ I'm new to home labs, where I'm constantly striving to enhance my skills and kno
 #### [Homepage](https://gethomepage.dev/latest/)
 
 ### Planing for hardware
-- Replacing the ISP router with a new one, probably PfSense. (My current ISP allows to replacement of the router.)
 - NAS Server (Planning 2x4TB 2.5' SSD RAID 1)
