@@ -1,7 +1,7 @@
-# homelab
 I'm new to home labs, where I'm constantly striving to enhance my skills and knowledge. This repository contains resources from my personal entry-level home lab.
 
-![Screenshot 2024-02-08 111927](https://github.com/uaerman/homelab/assets/34603648/6090d395-bec6-45a1-8ebd-e9b0295cfbf8)
+![image](https://github.com/user-attachments/assets/b6dffc84-a32a-4996-8dbb-a684e1dae5a4)
+
 
 
 ### Hardware
@@ -18,7 +18,6 @@ I'm new to home labs, where I'm constantly striving to enhance my skills and kno
 #### Network
 - TP-Link Archer AX53
 - 1GBps Upload/Download
-- ~~Gigabit ISP Router (For now)~~
 
 ### OS
 - Ubuntu Server 22.04.3 LTS (Raspberry Pi & VMs on Personal Computer)
@@ -30,6 +29,7 @@ I'm new to home labs, where I'm constantly striving to enhance my skills and kno
 
 ### Cloud
 - VPS With 4 Core and 4 Gig of Ram
+- VPS With 2 Core and 4 Gig of Ram
   I know Cloud doesn't count for the home lab but at the end of the day I using it
 
 ### Apps & Services
@@ -52,16 +52,17 @@ I'm new to home labs, where I'm constantly striving to enhance my skills and kno
 ### Downloads & Files
 - [qBitTorrent](https://www.qbittorrent.org/) Torrent Client
 - [FileBrowser](https://filebrowser.org/) For access raspberry pi files everywhere
-- [Pyload](https://pyload.net/) Lightweight download manager
+- ~~[Pyload](https://pyload.net/) Lightweight download manager~~
 
 ### Documents & Bookmarks
-- [LinkAce](https://www.linkace.org/) Self-Hosted bookmark archive
+- ~~[LinkAce](https://www.linkace.org/) Self-Hosted bookmark archive~~
 - [BookStack](https://www.bookstackapp.com/) Document Manager ?
 
 #### Other
-- [It-Tools](https://github.com/CorentinTh/it-tools) collection of online tools for developers (Still running but removed on homepage)
-- [Shlink](https://shlink.io/) Self-Hosted link shortener app
+- ~~[It-Tools](https://github.com/CorentinTh/it-tools) collection of online tools for developers (Still running but removed on homepage)~~
+- ~~[Shlink](https://shlink.io/) Self-Hosted link shortener app~~
 - [NTFY](https://ntfy.sh/) For get mobile push notifications
+- [Grafana](https://grafana.com/) For monitoring resources
 
 #### Why No Media
 - I simply don't watch movies or series. :/
