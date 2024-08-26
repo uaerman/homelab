@@ -16,8 +16,11 @@ I'm new to home labs, where I'm constantly striving to enhance my skills and kno
 - 512GB M2 SSD, 1TB M2 SSD, 1TB 2.5' HDD
 
 #### Network
-- TP-Link Archer AX53
+- Beelink U59 Running pfSense-ce (16Gb Ram 512GB SSD) 
+- TP-Link Archer AX53 (Running in AP mode)
+- TP-Link TG-108E 8 Port Switch
 - 1GBps Upload/Download
+
 
 ### OS
 - Ubuntu Server 22.04.3 LTS (Raspberry Pi & VMs on Personal Computer)
