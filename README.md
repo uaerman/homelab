@@ -1,8 +1,6 @@
 I'm new to home labs, where I'm constantly striving to enhance my skills and knowledge. This repository contains resources from my personal entry-level home lab.
 
-![image](https://github.com/user-attachments/assets/b6dffc84-a32a-4996-8dbb-a684e1dae5a4)
-
-
+![image](https://github.com/user-attachments/assets/e6125600-baf6-42a3-a18b-301625c7507e)
 
 ### Hardware
 #### Raspberry Pi 4 8GB
@@ -32,7 +30,7 @@ I'm new to home labs, where I'm constantly striving to enhance my skills and kno
 
 ### Cloud
 - VPS With 4 Core and 4 Gig of Ram
-- VPS With 2 Core and 4 Gig of Ram
+- 2X VPS With 2 Core and 4 Gig of Ram
   I know Cloud doesn't count for the home lab but at the end of the day I using it
 
 ### Apps & Services
@@ -44,7 +42,7 @@ I'm new to home labs, where I'm constantly striving to enhance my skills and kno
 
 #### Network
 - [HAProxy](https://www.haproxy.com/) High Availability LoadBalancer and Reverse Proxy (Using instead of nginx proxy manager)
-- [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) for public domain connection
+- [pfSense](https://www.pfsense.org/) Router/Firewall
 - [Adguard Home](https://adguard.com/en/adguard-home/overview.html) Ad & Tracker Blocking and Dns-Over-Https
 
 #### Monitoring
@@ -52,25 +50,26 @@ I'm new to home labs, where I'm constantly striving to enhance my skills and kno
 - [Speedtest Tracker](https://docs.speedtest-tracker.dev/) internet speed monitoring
 - [Dozzle](https://dozzle.dev/) for docker container logs (also use portainer for docker logs)
 
-### Downloads & Files
-- [qBitTorrent](https://www.qbittorrent.org/) Torrent Client
+### Document & File Management
+- [Immich](https://immich.app/) photo and video management
+- [Paperless-ngx](https://docs.paperless-ngx.com/) Document manager
+- [BookStack](https://www.bookstackapp.com/) Self hosted wiki
 - [FileBrowser](https://filebrowser.org/) For access raspberry pi files everywhere
-- ~~[Pyload](https://pyload.net/) Lightweight download manager~~
 
-### Documents & Bookmarks
-- ~~[LinkAce](https://www.linkace.org/) Self-Hosted bookmark archive~~
-- [BookStack](https://www.bookstackapp.com/) Document Manager ?
+### Personal
+- [Vikunja](https://vikunja.io/) to-do app
+- [Actual Budget](https://actualbudget.org/) Budget tracker
+- [Wallos](https://wallosapp.com/) Subscription tracker
+- [Glance](https://github.com/glanceapp/glance) RSS Feed dashboard
 
 #### Other
-- ~~[It-Tools](https://github.com/CorentinTh/it-tools) collection of online tools for developers (Still running but removed on homepage)~~
-- ~~[Shlink](https://shlink.io/) Self-Hosted link shortener app~~
-- [NTFY](https://ntfy.sh/) For get mobile push notifications
-- [Grafana](https://grafana.com/) For monitoring resources
-
-#### Why No Media
-- I simply don't watch movies or series. :/
+- [It-Tools](https://github.com/CorentinTh/it-tools) collection of online tools for developers (Still running but removed on homepage)
+- [Shlink](https://shlink.io/) Self-Hosted link shortener app
+- ~~[NTFY](https://ntfy.sh/) For get mobile push notifications~~
+- ~~[Grafana](https://grafana.com/) For monitoring resources~~
 
 #### [Homepage](https://gethomepage.dev/latest/)
 
 ### Planing for hardware
+- MiniPC for virtualization
 - NAS Server (Planning 2x4TB 2.5' SSD RAID 1)
