@@ -1,11 +1,24 @@
-I'm new to home labs, where I'm constantly striving to enhance my skills and knowledge. This repository contains resources from my personal entry-level home lab.
+I'm ~~new~~ to home labs, where I'm constantly striving to enhance my skills and knowledge. This repository contains resources from my personal entry-level home lab.
 
-![image](https://github.com/user-attachments/assets/e6125600-baf6-42a3-a18b-301625c7507e)
+![image](https://github.com/user-attachments/assets/4d43f866-4b30-4711-b355-6d0f63a1fefc)
+
 
 ### Hardware
 #### Raspberry Pi 4 8GB
 - 32GB SD Card storage
 - Metal heatsink with 2 mini-fans
+
+### Beelink Mini S12Pro
+- 16GB DDR4 RAM
+- Intel N100 CPU
+- 512GB M2 SSD
+
+### HP Proliant DL360P Gen 8 (Kinda old)
+- 128GB DDR3 ECC RAM
+- 2x E5-2640v2 CPU
+- 2x 1.2TB Toshiba SAS HDD (Raid 1)
+- 1X 500GB Toshiba SATA HDD
+- 1x 500GB Crucial SATA SSD
 
 #### Personal computer (Running VMs for optional testing other than personal use.)
 - 32GB 3600MHz DDR4 Ram
@@ -25,12 +38,12 @@ I'm new to home labs, where I'm constantly striving to enhance my skills and kno
 - Windows 11 23teH2 (Personal Computer)
 
 ### Containerization & Virtualization
+- Proxmox VE
 - VMWare Workstation Pro 17
-- Docker with Portainer
+- Docker
 
 ### Cloud
-- VPS With 4 Core and 4 Gig of Ram
-- 2X VPS With 2 Core and 4 Gig of Ram
+- 1x VPS With 2 Core and 4 Gig of Ram
   I know Cloud doesn't count for the home lab but at the end of the day I using it
 
 ### Apps & Services
